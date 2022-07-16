@@ -1,0 +1,12 @@
+C:\Users\omer_\Documents\source\src\ViteDemo\ViteApi\obj\Release\net5.0\PubTmp\Out\ViteApi.exe
+C:\Users\omer_\Documents\source\src\ViteDemo\ViteApi\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\omer_\Documents\source\src\ViteDemo\ViteApi\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\omer_\Documents\source\src\ViteDemo\ViteApi\obj\Release\net5.0\PubTmp\Out\ViteApi.dll
+C:\Users\omer_\Documents\source\src\ViteDemo\ViteApi\obj\Release\net5.0\PubTmp\Out\ViteApi.deps.json
+C:\Users\omer_\Documents\source\src\ViteDemo\ViteApi\obj\Release\net5.0\PubTmp\Out\ViteApi.runtimeconfig.json
+C:\Users\omer_\Documents\source\src\ViteDemo\ViteApi\obj\Release\net5.0\PubTmp\Out\ViteApi.pdb
+C:\Users\omer_\Documents\source\src\ViteDemo\ViteApi\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\omer_\Documents\source\src\ViteDemo\ViteApi\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\omer_\Documents\source\src\ViteDemo\ViteApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\omer_\Documents\source\src\ViteDemo\ViteApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\omer_\Documents\source\src\ViteDemo\ViteApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
